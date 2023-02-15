@@ -1,0 +1,179 @@
+integer 10 readonly '!'=0
+integer 10 readonly '#'=0
+integer 10 readonly '$'=70709
+array readonly '*'=(  )
+readonly -=569XZilms
+0=/bin/zsh
+integer 10 readonly '?'=127
+array readonly @=(  )
+integer 10 readonly ARGC=0
+tied cdpath CDPATH=''
+COLORTERM=truecolor
+integer 10 COLUMNS=72
+COMMAND_MODE=unix2003
+CONDA_DEFAULT_ENV=base
+CONDA_EXE=/Users/williamschlacks/miniconda3/bin/conda
+CONDA_PREFIX=/Users/williamschlacks/miniconda3
+CONDA_PROMPT_MODIFIER='(base) '
+CONDA_PYTHON_EXE=/Users/williamschlacks/miniconda3/bin/python
+CONDA_SHLVL=1
+CPUTYPE=arm64
+integer 10 EGID=20
+integer 10 EUID=501
+tied fignore FIGNORE=''
+tied fpath FPATH=/usr/local/share/zsh/site-functions:/usr/share/zsh/site-functions:/usr/share/zsh/5.8.1/functions
+integer 10 FUNCNEST=700
+integer 10 GID=20
+GIT_ASKPASS='/private/var/folders/f4/5yln33sd2qjddt6_p4lkfw4r0000gn/T/AppTranslocation/565ED5A9-717B-4A89-B0EB-7A97967CA2EB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh'
+HISTCHARS='!^#'
+integer 10 readonly HISTCMD=184
+HISTFILE=/var/folders/f4/5yln33sd2qjddt6_p4lkfw4r0000gn/T/williamschlacks-code-zsh/.zsh_history
+integer 10 HISTSIZE=2000
+HOME=/Users/williamschlacks
+HOMEBREW_CELLAR=/opt/homebrew/Cellar
+HOMEBREW_PREFIX=/opt/homebrew
+HOMEBREW_REPOSITORY=/opt/homebrew
+HOST=macbook-pro-26.lan
+IFS=$' \t\n\C-@'
+INFOPATH=/opt/homebrew/share/info:/opt/homebrew/share/info:
+KEYBOARD_HACK=''
+integer KEYTIMEOUT=40
+LANG=en_US.UTF-8
+integer 10 readonly LINENO=2
+integer 10 LINES=25
+integer LISTMAX=100
+integer LOGCHECK=60
+LOGNAME=williamschlacks
+MACHTYPE=x86_64
+integer MAILCHECK=60
+tied mailpath MAILPATH=''
+tied manpath MANPATH=/opt/homebrew/share/man:/usr/share/man:/usr/local/share/man:/opt/homebrew/share/man:
+tied module_path MODULE_PATH=/usr/lib/zsh/5.8.1
+MallocNanoZone=0
+NULLCMD=cat
+OLDPWD=/Users/williamschlacks/hegel/I4/I5/interactive5
+OPTARG=''
+integer 10 OPTIND=1
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+OSTYPE=darwin21.0
+tied path PATH=/Users/williamschlacks/.amplify/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/williamschlacks/.amplify/bin:/Users/williamschlacks/miniconda3/bin:/Users/williamschlacks/miniconda3/condabin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.11/bin
+integer 10 readonly PPID=54511
+PROMPT='(base) %n@%m %1~ %# '
+PROMPT2='%_> '
+PROMPT3='?# '
+PROMPT4='+%N:%i> '
+PS1='(base) %n@%m %1~ %# '
+PS2='%_> '
+PS3='?# '
+PS4='+%N:%i> '
+tied psvar PSVAR=''
+PWD=/Users/williamschlacks/hegel/I4/I5/interactive5
+integer 10 RANDOM=9562
+READNULLCMD=more
+integer 10 SAVEHIST=1000
+integer 10 SECONDS=3
+SHELL=/bin/zsh
+integer 10 SHLVL=1
+SPROMPT='zsh: correct '\''%R'\'' to '\''%r'\'' [nyae]? '
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.wvYmw5NebX/Listeners
+TERM=xterm-256color
+TERM_PROGRAM=vscode
+TERM_PROGRAM_VERSION=1.74.0
+TIMEFMT='%J  %U user %S system %P cpu %*E total'
+TMPDIR=/var/folders/f4/5yln33sd2qjddt6_p4lkfw4r0000gn/T/
+TMPPREFIX=/tmp/zsh
+integer 10 TRY_BLOCK_ERROR=-1
+integer 10 TRY_BLOCK_INTERRUPT=-1
+TTY=/dev/ttys002
+integer 10 readonly TTYIDLE=0
+integer 10 UID=501
+USER=williamschlacks
+USERNAME=williamschlacks
+USER_ZDOTDIR=/Users/williamschlacks
+VENDOR=apple
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node
+VSCODE_GIT_ASKPASS_MAIN='/private/var/folders/f4/5yln33sd2qjddt6_p4lkfw4r0000gn/T/AppTranslocation/565ED5A9-717B-4A89-B0EB-7A97967CA2EB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js'
+VSCODE_GIT_ASKPASS_NODE='/private/var/folders/f4/5yln33sd2qjddt6_p4lkfw4r0000gn/T/AppTranslocation/565ED5A9-717B-4A89-B0EB-7A97967CA2EB/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper'
+VSCODE_GIT_IPC_HANDLE=/var/folders/f4/5yln33sd2qjddt6_p4lkfw4r0000gn/T/vscode-git-7f6ce5a81b.sock
+VSCODE_INJECTION=1
+VSCODE_SHELL_INTEGRATION=1
+VSCODE_ZDOTDIR=/var/folders/f4/5yln33sd2qjddt6_p4lkfw4r0000gn/T/williamschlacks-code-zsh
+tied watch WATCH=''
+WATCHFMT='%n has %a %l from %m.'
+WORDCHARS='*?_-.[]~=/&;!#$%^(){}<>'
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=application.com.microsoft.VSCode.38914039.38914046
+ZDOTDIR=/Users/williamschlacks
+ZSH_ARGZERO=/bin/zsh
+readonly tied zsh_eval_context ZSH_EVAL_CONTEXT=toplevel
+ZSH_NAME=zsh
+ZSH_PATCHLEVEL=zsh-5.8.1-0-g1a490c7
+integer 10 readonly ZSH_SUBSHELL=0
+ZSH_VERSION=5.8.1
+_=local
+_CE_CONDA=''
+_CE_M=''
+__CFBundleIdentifier=com.microsoft.VSCode
+__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0
+__vsc_current_command=$'$ mongo\n> use local\n> db.business_units.insertOne({ name: "My Business Unit" })\n{ "acknowledged" : true, "insertedId" : ObjectId("5f87af9c2c9e440000c8f248") }\n> db.business_units.find()\n{ "_id" : ObjectId("5f87af9c2c9e440000c8f248"), "name" : "My Business Unit" }\n'
+__vsc_in_command_execution=1
+__vsc_prior_prompt='(base) %n@%m %1~ %# '
+__vsc_prior_prompt2='%_> '
+undefined aliases
+array argv=(  )
+undefined builtins
+array tied CDPATH cdpath=(  )
+undefined commands
+undefined dirstack
+undefined dis_aliases
+undefined dis_builtins
+undefined dis_functions
+undefined dis_functions_source
+undefined dis_galiases
+undefined dis_patchars
+undefined dis_reswords
+undefined dis_saliases
+array tied FIGNORE fignore=(  )
+array tied FPATH fpath=( /usr/local/share/zsh/site-functions /usr/share/zsh/site-functions /usr/share/zsh/5.8.1/functions )
+undefined funcfiletrace
+undefined funcsourcetrace
+undefined funcstack
+undefined functions
+undefined functions_source
+undefined functrace
+undefined galiases
+histchars='!^#'
+undefined history
+undefined historywords
+undefined jobdirs
+undefined jobstates
+undefined jobtexts
+association key=( [Backspace]=$'\C-H' [Delete]=$'\C-[[3~' [Down]=$'\C-[OB' [End]=$'\C-[OF' [F1]=$'\C-[OP' [F10]=$'\C-[[21~' [F11]=$'\C-[[23~' [F12]=$'\C-[[24~' [F13]=$'\C-[[1;2P' [F14]=$'\C-[[1;2Q' [F15]=$'\C-[[1;2R' [F16]=$'\C-[[1;2S' [F17]=$'\C-[[15;2~' [F18]=$'\C-[[17;2~' [F19]=$'\C-[[18;2~' [F2]=$'\C-[OQ' [F20]=$'\C-[[19;2~' [F3]=$'\C-[OR' [F4]=$'\C-[OS' [F5]=$'\C-[[15~' [F6]=$'\C-[[17~' [F7]=$'\C-[[18~' [F8]=$'\C-[[19~' [F9]=$'\C-[[20~' [Home]=$'\C-[OH' [Insert]=$'\C-[[2~' [Left]=$'\C-[OD' [PageDown]=$'\C-[[6~' [PageUp]=$'\C-[[5~' [Right]=$'\C-[OC' [Up]=$'\C-[OA' )
+undefined keymaps
+array tied MAILPATH mailpath=(  )
+array tied MANPATH manpath=( /opt/homebrew/share/man /usr/share/man /usr/local/share/man /opt/homebrew/share/man '' )
+array tied MODULE_PATH module_path=( /usr/lib/zsh/5.8.1 )
+undefined modules
+undefined nameddirs
+association options
+undefined parameters
+undefined patchars
+array tied PATH path=( /Users/williamschlacks/.amplify/bin /opt/homebrew/bin /opt/homebrew/sbin /Library/Frameworks/Python.framework/Versions/3.11/bin /usr/local/bin /usr/bin /bin /usr/sbin /sbin /Users/williamschlacks/.amplify/bin /Users/williamschlacks/miniconda3/bin /Users/williamschlacks/miniconda3/condabin /opt/homebrew/bin /opt/homebrew/sbin /Library/Frameworks/Python.framework/Versions/3.11/bin )
+array pipestatus=( 127 )
+array precmd_functions=( __vsc_precmd )
+array preexec_functions=( __vsc_preexec )
+prompt='(base) %n@%m %1~ %# '
+array tied PSVAR psvar=(  )
+undefined reswords
+undefined saliases
+array signals=( EXIT HUP INT QUIT ILL TRAP ABRT EMT FPE KILL BUS SEGV SYS PIPE ALRM TERM URG STOP TSTP CONT CHLD TTIN TTOU IO XCPU XFSZ VTALRM PROF WINCH INFO USR1 USR2 ZERR DEBUG )
+integer 10 readonly status=127
+undefined termcap
+association readonly terminfo
+undefined userdirs
+undefined usergroups
+array tied WATCH watch=(  )
+undefined widgets
+array zle_bracketed_paste=( $'\C-[[?2004h' $'\C-[[?2004l' )
+array readonly tied ZSH_EVAL_CONTEXT zsh_eval_context=( toplevel )
+undefined zsh_scheduled_events
