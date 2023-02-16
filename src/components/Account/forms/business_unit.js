@@ -13,7 +13,7 @@ const BusinessUnitForm = () => {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    fetch("http:resilient-jalebi-64fd14.netlify.app/business_units", {
+    fetch("https://resilient-jalebi-64fd14.netlify.app/business_units", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -39,7 +39,7 @@ const BusinessUnitForm = () => {
 
   useEffect(() => {
     fetch(
-      "http://resilient-jalebi-64fd14.netlify.app/business_units?dataSource=AtlasCluster&database=mongowilly&collection=mongowillycollection"
+      "https://resilient-jalebi-64fd14.netlify.app/business_units?dataSource=AtlasCluster&database=mongowilly&collection=mongowillycollection"
     )
       .then((res) => res.json())
       .then((data) => {
